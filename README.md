@@ -15,7 +15,11 @@ Our method is simple and can solve the problem at different resolutions, and it 
 
 ORB detector is less robust on image transformations(rotation, translation and scaling). However, other methods, such as SIFT and SURF, can be used because they are more robust but require more computational time. We think with more time and computation resources, this model can be improved.
 
+
+
 Citations
 [1] Macenko, Marc, et al. "A method for normalizing histology slides for quantitative analysis." 2009 IEEE international symposium on biomedical imaging: from nano to macro. IEEE, 2009.  
+
 [2] Rublee, Ethan, et al. "ORB: An efficient alternative to SIFT or SURF." 2011 International conference on computer vision. Ieee, 2011.
+
 [3] Jakubović, Amila, and Jasmin Velagić. "Image feature matching and object detection using brute-force matchers." 2018 International Symposium ELMAR. IEEE, 2018.
