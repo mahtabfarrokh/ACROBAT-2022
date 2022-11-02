@@ -17,7 +17,8 @@ ORB detector is less robust on image transformations(rotation, translation and s
 
 
 
-Citations
+## Citations
+
 [1] Macenko, Marc, et al. "A method for normalizing histology slides for quantitative analysis." 2009 IEEE international symposium on biomedical imaging: from nano to macro. IEEE, 2009.  
 
 [2] Rublee, Ethan, et al. "ORB: An efficient alternative to SIFT or SURF." 2011 International conference on computer vision. Ieee, 2011.
